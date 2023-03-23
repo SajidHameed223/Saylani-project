@@ -1,0 +1,25 @@
+main{
+    min-height: 100vh;
+}
+.div1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Bighead.jpg);
+}
+.div2{
+    width:60%;
+    border-radius: 5px;
+    inset: 5px 5px 12px outset
+           5px 5px 12px black;
+}
+.form-control{
+background: #000;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#d3{
+    height: 200px;
+}
